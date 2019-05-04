@@ -7,7 +7,7 @@ saveCycle: 15
 firstQuest: -1
 maxLaunchedQuests: 0
 
-debug: false
+debug: true
 
 scoreboards: true
 
@@ -17,12 +17,12 @@ allowPlayerCancelQuest: false
 sounds: true
 finishSound: ENTITY_PLAYER_LEVELUP
 fireworks: true
-mobsProgressBar: false
+mobsProgressBar: true
 progressBarTimeoutSeconds: 15
 
-gps: false
+gps: true
 skillAPIoverride: true
-accountsHook: false
+accountsHook: true
 splittedAdvancementPlaceholderMax: 3
 disableTextHologram: false
 hologramsHeight: 0.0
